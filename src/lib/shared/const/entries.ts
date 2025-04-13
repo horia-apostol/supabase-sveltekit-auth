@@ -1,0 +1,1 @@
+export const ENTRY_NAME_MAX_LENGTH = 50;
